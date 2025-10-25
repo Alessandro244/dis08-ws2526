@@ -30,7 +30,7 @@ Dieser Text gehört immer noch zum gleichen Paragraphen.
 Um Text Fett zu schreiben, einfach ** vor und nach dem Text einfügen.
 
 Beispiel:
-** Dieser Text ist Fett geschrieben ** 
+**Dieser Text ist Fett geschrieben.** 
 - Italic
 - Bold 
 - Strikethrough 
