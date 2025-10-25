@@ -255,13 +255,19 @@ Beispiel:
 - [x] Beispielaufgabe 3
 
 - Mentioning users (@username)
-Personen kann man mit dem @ Zeichen eine Benachrichtigung zukommen lassen.
+Personen kann man mit dem @ Zeichen in einem Issue, Pull Request oder Kommentar eine Benachrichtigung zukommen lassen.
 
 Beispiel:
 
 @Beispielperson hier ist eine neue Änderung.
 
-- Automatic linking of issues/PRs 
+- Automatic linking of issues/PRs
+Man kann Issues oder Pull Requests automatisch verlinken, indem man einfach # Zeichen verwendet (eventuell nicht am Zeilenanfang, damit Markdown das nicht als H1 versteht).
+
+Beispiel:
+
+Dieses Problem ist gelöst in #42.
+
 - Emoji shortcodes
 
 > [!IMPORTANT]
