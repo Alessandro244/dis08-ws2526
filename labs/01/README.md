@@ -150,6 +150,13 @@ def Beispiel():
 
 **Quotes & Notes**
 - Blockquotes
+Um ein Zitat zu kennzeichen, einfach ein > vor jede Zeile legen, die zitiert werden soll.
+
+Beispiel:
+
+> Beispielzitat.
+
+
 - Nested blockquotes 
 - Blockquotes with formatting 
 
