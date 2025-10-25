@@ -92,3 +92,31 @@ Syntax Highlighting möglich: python, javascript, html, markdown etc.
 ## Verschachtelte Blockquotes:
 > > Zitat innerhalb eines Zitats
 
+## Horizontal Rules / Divider (Drei mal zeichen -, * oder _)
+---
+
+## Tables
+
+### Basic Table
+| Name  | Alter | Stadt   |
+|-------|:-----:|--------:|
+| Anna  | 25    | Berlin  |
+| Ben   | 30    | Hamburg |
+Alignment: :--- (links), :---: (zentriert), ---: (rechts)
+Complex Tables möglich mit Markdown innerhalb der Zellen (wie Fett oder Kursiv geschrieben).
+
+## Task Lists / Checkboxes (GitHub-specific)
+- [ ] Milch kaufen
+- [x] Brot besorgen
+- [ ] Eier prüfen
+Interaktiv in Issues, Pull Requests, Discussions.
+
+## GitHub Mentions, Issues & PRs
+@username → Mention einer Person  
+#42 → Verlinkt automatisch Issue/PR im selben Repo  
+
+## GitHub Emojis
+:smile: :thumbsup:
+
+## Online & Collaborative Editors
+StackEdit, Typora, Obsidian
