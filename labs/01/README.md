@@ -56,8 +56,17 @@ Um einen Inline code zu schreiben (code innerhalb eines Textes), einfach ` vor u
 Beispiel:
 
 Hier steht eine `code` Zeile.
+
 **Lists**
 - Unordered lists
+Um unordered lists (Aufzählungen ohne Reihenfolge) zu erstellen, eines der Zeichen -, * oder + am Zeilenanfang einfügen.
+
+Beispiel:
+
++ Aufzählung
++ Aufzählung
++ Aufzählun
+
 - Ordered lists
 - Nested lists 
 
