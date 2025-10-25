@@ -20,11 +20,17 @@ Der erste Absatz.
 
 Der zweite Absatz.
 
-Test zwei Leerzeichen am Ende zwei Leerzeichen  
-Und dies steht in der nächsten Zeile, im gleichen Absatz.
+Um einen Zeilenumbruch zu erzeugen, müssen zwei oder mehr Leerzeichen am Ende des Satzes hinzugefügt werden. Dadurch gehört auch der Satz in der neuen Zeile immer noch zum gleichen Paragraphen. Und dies steht in der nächsten Zeile, im gleichen Absatz.
 
-Test  Test
-- Bold 
+Beispiel:
+Text mit Inhalt  
+Dieser Text gehört immer noch zum gleichen Paragraphen.
+
+- Bold
+Um Text Fett zu schreiben, einfach ** vor und nach dem Text einfügen.
+
+Beispiel:
+** Dieser Text ist Fett geschrieben ** 
 - Italic
 - Bold 
 - Strikethrough 
