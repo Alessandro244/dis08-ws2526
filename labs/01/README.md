@@ -246,8 +246,21 @@ Beispiele für bekannte Online Markdown Editoren sind unter anderem sind StackEd
 
 **Platform/Tool Specific: GitHub**
 - Task lists
+Task lists in GitHub sind genau wie Checkboxes in Markdown, nur das diese interaktiv klickbar sind in Issues, Pull Requests oder Discussions.
+
+Beispiel:
+
+- [ ] Beispielaufgabe 1
+- [ ] Beispielaufgabe 2
+- [x] Beispielaufgabe 3
 
 - Mentioning users (@username)
+Personen kann man mit dem @ Zeichen eine Benachrichtigung zukommen lassen.
+
+Beispiel:
+
+@Beispielperson hier ist eine neue Änderung.
+
 - Automatic linking of issues/PRs 
 - Emoji shortcodes
 
