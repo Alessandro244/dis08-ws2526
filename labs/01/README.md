@@ -89,7 +89,12 @@ Beispiel:
     + Eingerückte Liste
 
 **Links & Images**
-- Inline links 
+- Inline links
+Ein linine Link (Link mitten im Text) wird wie folgt erzeugt: [] für den Linktext und () den Link selbst.
+
+Beispiel:
+
+Besuche [Beispielwebseite](www.beispielwebseite.de).
 - Reference-style links 
 - Images 
 - Image + link combination 
