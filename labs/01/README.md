@@ -94,7 +94,7 @@ Ein linine Link (Link mitten im Text) wird wie folgt erzeugt: [] für den Linkte
 
 Beispiel:
 
-Besuche [Beispiellink](www.beispiellink.de).
+Besuche [Beispiellink](https://www.beispiellink.de).
 
 - Reference-style links
 Ein Reference-style link definiert die URL seperat und referenziert diese dann im Text. Hierfür wird die URL in [] und nach einem Doppelpunkt wird der Link hingeschrieben.
@@ -103,17 +103,22 @@ Beispiel:
 
 Besuche [Beispiellink][link].
 
-[link]: www.beispiellink.de
+[link]: https:/www.beispiellink.de
 
 - Images
 Ein Bild wird änhlich wie ein inline link erzeugt, nur mit einem ! davor. ![Alternativ Text](Bild URL).
 
 Beispiel:
 
-![Beispielbild](www.beispielbild.de)
+![Beispielbild](https:/www.beispielbild.de)
 
 
-- Image + link combination 
+- Image + link combination
+Ein Image + Link ist ein Bild das klickbar ist und als Link fungiert. Dafür wird das Bild ![Alternativ Text](Bild URL) in den Linktext [] eingefügt und () den Link selbst.
+
+Beispiel:
+
+[![Beispielbild](https:/www.beispielbild.de)](https:/www.beispiellink.de)
 
 **Code & Technical Content**
 - Inline code 
