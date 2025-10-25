@@ -65,10 +65,25 @@ Beispiel:
 
 + Aufzählung
 + Aufzählung
-+ Aufzählun
++ Aufzählung
 
 - Ordered lists
-- Nested lists 
+Um ordered lists (Aufzählungen mit Reihenfolge) zu erstellen, einfach die Zahl mit einem Punkt und einem Leerzeichen am Zeilenanfang einfügen.
+
+Beispiel:
+
+1. Erstens
+2. Zweitens
+3. Drittens
+
+- Nested lists
+Um nested lists (verschachtelte Listen) zu erstellen, wird die Liste die man verschachteln will einfach eingerückt mit 2 oder 4 Leerzeichen. Unordered und ordered lists können beliebig gemischt werden.
+
+Beispiel:
+
++ Liste
+  1. Eingerückte Liste
+  2. Eingerückte Liste
 
 **Links & Images**
 - Inline links 
