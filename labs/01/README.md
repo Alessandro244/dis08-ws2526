@@ -35,8 +35,14 @@ Um Text Fett zu schreiben, einfach ** vor und nach dem Text einfügen.
 Beispiel:
 
 **Dieser Text ist Fett geschrieben.** 
+
 - Italic
-- Bold 
+Um Text in Kursiv zu schreiben, einfach _ vor und nach dem Text einfügen.
+
+Beispiel:
+
+_Dieser Text ist in Kursiv geschrieben._
+
 - Strikethrough 
 - Inline code 
 
