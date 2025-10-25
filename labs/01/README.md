@@ -84,6 +84,9 @@ Beispiel:
 1. Liste
     + Eingerückte Liste
     + Eingerückte Liste
+2. Liste
+    + Eingerückte Liste
+    + Eingerückte Liste
 
 **Links & Images**
 - Inline links 
