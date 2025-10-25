@@ -10,12 +10,14 @@
 Es gibt 6 (H1, H2, H3, H4, H5, H6) Größen von Überschriften, aus denen man wählen kann. Eine Überschrift wird mit dem # Zeichen erzeugt. Je mehr # Zeichen man verwendet, desto kleiner wird die Überschrift (# wird zu H1, ## wird zu H2, ### wird zu H3... ###### wird zu H6).
 
 Beispiel: 
+
 ### Überschrift der Größe H3
 
 - Paragraphs & line breaks
 Ein Paragraph entsteht durch eine oder mehrere leere Zeilen zwischen Textblöcken.
 
 Beispiel:
+
 Der erste Absatz.
 
 Der zweite Absatz.
@@ -23,6 +25,7 @@ Der zweite Absatz.
 Um einen Zeilenumbruch zu erzeugen, müssen zwei oder mehr Leerzeichen am Ende des Satzes hinzugefügt werden. Dadurch gehört auch der Satz in der neuen Zeile immer noch zum gleichen Paragraphen. Und dies steht in der nächsten Zeile, im gleichen Absatz.
 
 Beispiel:
+
 Text mit Inhalt  
 Dieser Text gehört immer noch zum gleichen Paragraphen.
 
@@ -30,6 +33,7 @@ Dieser Text gehört immer noch zum gleichen Paragraphen.
 Um Text Fett zu schreiben, einfach ** vor und nach dem Text einfügen.
 
 Beispiel:
+
 **Dieser Text ist Fett geschrieben.** 
 - Italic
 - Bold 
