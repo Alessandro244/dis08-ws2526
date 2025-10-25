@@ -214,7 +214,28 @@ Beispiel:
 - [x] Beispielaufgabe 3
 
 **Dividers & Layout**
-- Horizontal rules 
+- Horizontal rules
+Horizontal rules (Trennlinien) werden durch die Zeichen ---, *** oder ___ erzeugt.
+
+Beispiel:
+
+Text über der Linie
+
+---
+
+Text unter der Linie
+
+Text über der Linie
+
+***
+
+Text unter der Linie
+
+Text über der Linie
+
+___
+
+Text unter der Linie
 - Line breaks 
 
 **Online and collaborative editors**
