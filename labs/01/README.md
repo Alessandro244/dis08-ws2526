@@ -13,6 +13,15 @@ Beispiel:
 ### Überschrift der Größe H3
 
 - Paragraphs & line breaks
+Ein Paragraph entsteht durch eine oder mehrere leere Zeilen zwischen Textblöcken.
+
+Beispiel:
+Der erste Absatz.
+
+Der zweite Absatz.
+
+Ein Zeilenumbruch entsteht durch zwei oder mehr Leerzeichen 
+Test  Test
 - Bold 
 - Italic
 - Bold 
