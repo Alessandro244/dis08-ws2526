@@ -6,7 +6,12 @@
 > Visit https://www.markdowntutorial.com/ and complete the tutorial. In parallel, provide short explanations for each listed feature below. Show at least one example of how the Markdown code looks, and what it renders into. Structure your document to make the rendered version readable. Some of the listed features are not covered in the tutorial and you have to do some research on your own.
 
 **Basic Formatting**
-- Headings 
+- Headings
+Es gibt 6 (H1, H2, H3, H4, H5, H6) Größen von Überschriften, aus denen man wählen kann. Eine Überschrift wird mit dem # Zeichen erzeugt. Je mehr # Zeichen man verwendet, desto kleiner wird die Überschrift (# wird zu H1, ## wird zu H2, ### wird zu H3... ###### wird zu H6).
+
+Beispiel: 
+### Überschrift der Größe H3
+
 - Paragraphs & line breaks
 - Bold 
 - Italic
