@@ -104,7 +104,7 @@ Syntax Highlighting möglich: python, javascript, html, markdown etc.
 | Ben   | 30    | Hamburg |
 
 
-Alignment: :--- (links), :---: (zentriert), ---: (rechts)  
+Alignment: :--- (links), :---: (zentriert), ---: (rechts)
 Complex Tables möglich mit Markdown innerhalb der Zellen (wie Fett oder Kursiv geschrieben).
 
 ## Task Lists / Checkboxes (GitHub-specific)
