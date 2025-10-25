@@ -121,8 +121,27 @@ Beispiel:
 [![Beispielbild](https:/www.beispielbild.de)](https:/www.beispiellink.de)
 
 **Code & Technical Content**
-- Inline code 
-- Fenced code blocks 
+- Inline code
+Um einen Inline code zu schreiben (code innerhalb eines Textes), einfach ` vor und nach dem code einfügen.
+
+Beispiel:
+
+Hier steht eine `code` Zeile.
+
+- Fenced code blocks
+Um fenced code blocks (mehrzeilige Code Zeilen) zu schreiben einfach ``` oder ~~~ vor und nach dem Code hinzufügen.
+
+Beispiel:
+
+```
+python code
+print("Test)
+```
+
+~~~
+python code
+print("Test)
+~~~
 - Syntax highlighting (languages like Python, R, HTML, etc.)
 
 **Quotes & Notes**
