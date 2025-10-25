@@ -94,8 +94,17 @@ Ein linine Link (Link mitten im Text) wird wie folgt erzeugt: [] für den Linkte
 
 Beispiel:
 
-Besuche [Beispielwebseite](www.beispielwebseite.de).
-- Reference-style links 
+Besuche [Beispiellink](www.beispiellink.de).
+
+- Reference-style links
+Ein Reference-style link definiert die URL seperat und referenziert diese dann im Text. Hierfür wird die URL in [] und nach einem Doppelpunkt wird der Link hingeschrieben.
+
+Beispiel:
+
+Besuche [Beispiellink][link].
+
+[link]: www.beispiellink.de
+
 - Images 
 - Image + link combination 
 
