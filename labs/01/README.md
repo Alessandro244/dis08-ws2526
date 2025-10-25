@@ -190,10 +190,18 @@ Beispiel:
 
 | Spalte 1 | Spalte 2 | Spalte 3 |
 |:----------|:--------:|---------:|
-| Linksbündig  | Daten 2  | Rechtsbündig  |
-| Linksbündig  | Daten 5  | Rechtsbündig  |
+| Linksbündig  | Zentriert  | Rechtsbündig  |
+| Linksbündig  | Zentriert  | Rechtsbündig  |
 
 - Complex tables 
+Tabellen werden komplexer durch die Nutzung von Formatierung oder Links.
+
+Beispiel:
+
+| Spalte 1 | Spalte 2 | Spalte 3 |
+|:----------|:--------:|---------:|
+| **Person A**  | Hobby A  | [Zur Person](https://portfolio-person-a.com)  |
+| _Person B_  | Hobby B  | [Zur Person](https://portfolio-person-b.com)  |
 
 **Task Lists**
 - Checkboxes
