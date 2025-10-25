@@ -55,7 +55,7 @@ Um einen Inline code zu schreiben (code innerhalb eines Textes), einfach ` vor u
 
 Beispiel:
 
-Hier steht `code`.
+Hier steht eine `code` Zeile.
 **Lists**
 - Unordered lists
 - Ordered lists
