@@ -43,9 +43,19 @@ Beispiel:
 
 _Dieser Text ist in Kursiv geschrieben._
 
-- Strikethrough 
-- Inline code 
+- Strikethrough
+Um Text durchzustreichen, einfach ~~ vor und nach dem Text einfügen.
 
+Beispiel:
+
+~~Dieser Text ist durchgestrichen.~~
+
+- Inline code 
+Um einen Inline code zu schreiben (code innerhalb eines Textes), einfach ` vor und nach dem code einfügen.
+
+Beispiel:
+
+Hier steht `code`.
 **Lists**
 - Unordered lists
 - Ordered lists
