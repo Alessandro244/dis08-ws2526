@@ -134,15 +134,19 @@ Um fenced code blocks (mehrzeilige Code Zeilen) zu schreiben einfach ``` oder ~~
 Beispiel:
 
 ```
-python code
-print("Test)
+def Beispiel():
+    print("Beispiel")
 ```
 
-~~~
-python code
-print("Test)
-~~~
 - Syntax highlighting (languages like Python, R, HTML, etc.)
+Mit Syntax highlighting kann man den Code farbig machen, je nach Programmiersprache. Dafür bei fenced code blocks die Programmiersprache direkt nach den ``` oder ~~~ hinschreiben.
+
+Beispiel.
+
+```python
+def Beispiel():
+    print("Beispiel")
+```
 
 **Quotes & Notes**
 - Blockquotes
