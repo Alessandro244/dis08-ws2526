@@ -105,6 +105,7 @@ Syntax Highlighting möglich: python, javascript, html, markdown etc.
 
 
 Alignment: :--- (links), :---: (zentriert), ---: (rechts)
+
 Complex Tables möglich mit Markdown innerhalb der Zellen (wie Fett oder Kursiv geschrieben).
 
 ## Task Lists / Checkboxes (GitHub-specific)
