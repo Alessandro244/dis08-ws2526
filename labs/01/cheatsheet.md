@@ -50,11 +50,9 @@ Syntax Highlighting möglich: ```python, ```javascript, ```html, etc.
 ## Listen
 
 ### Unordered Lists (ohne Reihenfolge)
-```markdown
 - Apfel
 * Banane
 + Kirsche
-```
 
 ### Ordered Lists (mit Reihenfolge)
 1. Erste Aufgabe
