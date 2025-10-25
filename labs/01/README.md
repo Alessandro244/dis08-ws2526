@@ -262,13 +262,19 @@ Beispiel:
 @Beispielperson hier ist eine neue Änderung.
 
 - Automatic linking of issues/PRs
-Man kann Issues oder Pull Requests automatisch verlinken, indem man einfach # Zeichen verwendet (eventuell nicht am Zeilenanfang, damit Markdown das nicht als H1 versteht).
+Man kann Issues oder Pull Requests im selben Repository automatisch verlinken, indem man einfach # Zeichen verwendet (eventuell nicht am Zeilenanfang, damit Markdown das nicht als H1 versteht).
 
 Beispiel:
 
 Dieses Problem ist gelöst in #42.
 
 - Emoji shortcodes
+Man kann über shortcodes ganz einfach Emojis einfügen.
+
+Beispiel:
+
+Beipiel1 :smile:
+Beisiel2 :thumbsup:
 
 > [!IMPORTANT]
 > Finally, add a file called `cheatsheet.md` containing your Markdown cheat sheet to the lab repository. Throughout the semester, you can use the cheat sheet as a reference and update it.
