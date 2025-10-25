@@ -166,9 +166,23 @@ Beispiel:
 > > Verschachteltes Beispielzitat.
 
 - Blockquotes with formatting 
+Man kann innerhalb von Zitaten alle möglichen Formatierungsmöglichkeiten von Markdown nutzen, wie Bold oder Kursiv.
+
+Beispiel:
+
+> Das ist ein Beispielzitat mit Wörtern die **Bold** und _Kursiv_ sind.
 
 **Tables**
-- Basic tables 
+- Basic tables
+Um einfache Tabellen in Markdown zu erstellen, werden | für die Spalten Trennung verwendet und - um die Kopfzeile von den Daten zu trennen. Die Daten werden durch einem Doppelpunkt vor dem - linksbündig, einem Doppelpunkt vor und nach den - zentriert und einem Doppelpunkt nach den - rechtsbündig.
+
+Beispiel:
+
+| Spalte 1 | Spalte 2 | Spalte 3 |
+|:---------|:--------:|---------:|
+| Daten 1  | Daten 2  | Daten 3  |
+| Daten 4  | Daten 5  | Daten 6  |
+
 - Alignment 
 - Complex tables 
 
