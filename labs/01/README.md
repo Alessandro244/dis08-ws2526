@@ -205,12 +205,12 @@ Beispiel:
 
 **Task Lists**
 - Checkboxes
-Checkboxes (Aufgabenliste mit Checkboxen) werden mit - [] für offene Angaben und - [x] für erledigte Aufgaben erzeugt.
+Checkboxes (Aufgabenliste mit Checkboxen) werden mit - [ ] für offene Angaben und - [x] für erledigte Aufgaben erzeugt.
 
 Beispiel:
 
-- [] Beispielaufgabe 1
-- [] Beispielaufgabe 2
+- [ ] Beispielaufgabe 1
+- [ ] Beispielaufgabe 2
 - [x] Beispielaufgabe 3
 
 **Dividers & Layout**
