@@ -45,7 +45,7 @@ def hallo_welt():
     print("Hallo Welt")
 ```
 
-Syntax Highlighting möglich: ```python, ```javascript, ```html, etc.
+Syntax Highlighting möglich: python, javascript, html, markdown etc.
 
 ## Listen
 
@@ -66,4 +66,29 @@ Syntax Highlighting möglich: ```python, ```javascript, ```html, etc.
   1. Karotte
   2. Brokkoli
 
+## Links & Images
+
+### Inline Link
+[Google](https://www.google.com)
+
+### Reference Link
+[Google][google]
+
+[google]: https://www.google.com "Gehe zu Google"
+
+### Inline Image
+![Alt-Text](https://via.placeholder.com/150 "Titel")
+
+### Image + Link
+[![Alt-Text](https://via.placeholder.com/150)](https://www.google.com)
+
+## Blockquotes
+> Dies ist ein Zitat
+> 
+> **Mit Formatierungen**
+>  **Liste**
+> - _Code_
+
+## Verschachtelte Blockquotes:
+> > Zitat innerhalb eines Zitats
 
