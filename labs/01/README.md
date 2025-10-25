@@ -273,8 +273,8 @@ Man kann über shortcodes ganz einfach Emojis einfügen.
 
 Beispiel:
 
-Beipiel1 :smile:
-Beisiel2 :thumbsup:
+Beispiel1 :smile:
+Beispiel2 :thumbsup:
 
 > [!IMPORTANT]
 > Finally, add a file called `cheatsheet.md` containing your Markdown cheat sheet to the lab repository. Throughout the semester, you can use the cheat sheet as a reference and update it.
