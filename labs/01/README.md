@@ -81,9 +81,9 @@ Um nested lists (verschachtelte Listen) zu erstellen, wird die Liste die man ver
 
 Beispiel:
 
-+ Liste
-  1. Eingerückte Liste
-  2. Eingerückte Liste
+1. Liste
+    + Eingerückte Liste
+    + Eingerückte Liste
 
 **Links & Images**
 - Inline links 
