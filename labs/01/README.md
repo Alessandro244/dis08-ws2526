@@ -20,7 +20,9 @@ Der erste Absatz.
 
 Der zweite Absatz.
 
-Ein Zeilenumbruch entsteht durch zwei oder mehr Leerzeichen 
+Test zwei Leerzeichen am Ende zwei Leerzeichen  
+Und dies steht in der nächsten Zeile, im gleichen Absatz.
+
 Test  Test
 - Bold 
 - Italic
