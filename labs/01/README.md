@@ -43,6 +43,13 @@ Beispiel:
 
 _Dieser Text ist in Kursiv geschrieben._
 
+- Bold
+Um Text Fett zu schreiben, einfach ** vor und nach dem Text einfügen.
+
+Beispiel:
+
+**Dieser Text ist Fett geschrieben.** 
+
 - Strikethrough
 Um Text durchzustreichen, einfach ~~ vor und nach dem Text einfügen.
 
@@ -225,24 +232,21 @@ Text über der Linie
 
 Text unter der Linie
 
-Text über der Linie
-
-***
-
-Text unter der Linie
-
-Text über der Linie
-
-___
-
-Text unter der Linie
 - Line breaks 
+Um einen Zeilenumbruch zu erzeugen, müssen zwei oder mehr Leerzeichen am Ende des Satzes hinzugefügt werden. Dadurch gehört auch der Satz in der neuen Zeile immer noch zum gleichen Paragraphen. Und dies steht in der nächsten Zeile, im gleichen Absatz.
+
+Beispiel:
+
+Text mit Inhalt  
+Dieser Text gehört immer noch zum gleichen Paragraphen.
 
 **Online and collaborative editors**
 - Markdown-based editors
+Beispiele für bekannte Online Markdown Editoren sind unter anderem sind StackEdit, Typora oder Obsidian.
 
 **Platform/Tool Specific: GitHub**
 - Task lists
+
 - Mentioning users (@username)
 - Automatic linking of issues/PRs 
 - Emoji shortcodes
