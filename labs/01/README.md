@@ -105,7 +105,14 @@ Besuche [Beispiellink][link].
 
 [link]: www.beispiellink.de
 
-- Images 
+- Images
+Ein Bild wird änhlich wie ein inline link erzeugt, nur mit einem ! davor. ![Alternativ Text](Bild URL).
+
+Beispiel:
+
+![Beispielbild](www.beispielbild.de)
+
+
 - Image + link combination 
 
 **Code & Technical Content**
