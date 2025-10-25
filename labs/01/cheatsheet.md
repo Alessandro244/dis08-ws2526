@@ -102,6 +102,8 @@ Syntax Highlighting möglich: python, javascript, html, markdown etc.
 |-------|:-----:|--------:|
 | Anna  | 25    | Berlin  |
 | Ben   | 30    | Hamburg |
+
+
 Alignment: :--- (links), :---: (zentriert), ---: (rechts)
 Complex Tables möglich mit Markdown innerhalb der Zellen (wie Fett oder Kursiv geschrieben).
 
