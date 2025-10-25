@@ -1,11 +1,6 @@
 # Open Source Software and Hosting
 
 > [!NOTE]
-> Please update this file by copying over the content found at https://gist.github.com/breuert/881ad6d93aa5027c3cb7217e6ec90941
-
-# Open Source Software and Hosting
-
-> [!NOTE]
 > The goal of this assignment is to help you learn Markdown by using Markdown. You will research its features, experiment with examples, and create your own Markdown Cheat Sheet that can serve as a reference for you and others.
 > 
 > Visit https://www.markdowntutorial.com/ and complete the tutorial. In parallel, provide short explanations for each listed feature below. Show at least one example of how the Markdown code looks, and what it renders into. Structure your document to make the rendered version readable. Some of the listed features are not covered in the tutorial and you have to do some research on your own.
