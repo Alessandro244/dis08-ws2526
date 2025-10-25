@@ -174,16 +174,25 @@ Beispiel:
 
 **Tables**
 - Basic tables
-Um einfache Tabellen in Markdown zu erstellen, werden | für die Spalten Trennung verwendet und - um die Kopfzeile von den Daten zu trennen. Die Daten werden durch einem Doppelpunkt vor dem - linksbündig, einem Doppelpunkt vor und nach den - zentriert und einem Doppelpunkt nach den - rechtsbündig.
+Um einfache Tabellen in Markdown zu erstellen, werden | für die Spalten Trennung verwendet und - um die Kopfzeile von den Daten zu trennen.
 
 Beispiel:
 
 | Spalte 1 | Spalte 2 | Spalte 3 |
-|----------|:--------:|---------:|
+|:----------|:--------:|---------:|
 | Daten 1  | Daten 2  | Daten 3  |
 | Daten 4  | Daten 5  | Daten 6  |
 
-- Alignment 
+- Alignment
+Um das alignment der Daten zu steuern werden die Daten durch einen Doppelpunkt vor dem - linksbündig, einem Doppelpunkt vor und nach den - zentriert und einem Doppelpunkt nach den - rechtsbündig.
+
+Beispiel:
+
+| Spalte 1 | Spalte 2 | Spalte 3 |
+|:----------|:--------:|---------:|
+| Linksbündig  | Daten 2  | Rechtsbündig  |
+| Linksbündig  | Daten 5  | Rechtsbündig  |
+
 - Complex tables 
 
 **Task Lists**
