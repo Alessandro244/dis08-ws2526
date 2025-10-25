@@ -157,7 +157,14 @@ Beispiel:
 > Beispielzitat.
 
 
-- Nested blockquotes 
+- Nested blockquotes
+Um Zitate zu verschachteln, einfach zwei >> nach dem ersten Zitat einfügen.
+
+Beispiel:
+
+> Beispielzitat.
+> > Verschachteltes Beispielzitat.
+
 - Blockquotes with formatting 
 
 **Tables**
