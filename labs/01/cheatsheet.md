@@ -100,8 +100,8 @@ Syntax Highlighting möglich: python, javascript, html, markdown etc.
 ### Basic Table
 | Name  | Alter | Stadt   |
 |-------|:-----:|--------:|
-| Anna  | 25    | Berlin  |
-| Ben   | 30    | Hamburg |
+| Daniel  | 20    | Berlin  |
+| Sara   | 22    | Essen |
 
 
 Alignment: :--- (linksbündig), :---: (zentriert), ---: (rechtsbündig)
