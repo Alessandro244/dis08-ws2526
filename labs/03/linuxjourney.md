@@ -28,5 +28,31 @@
   - clear
 
 10. Quizantworten bei der Sektion cp (Copy) 
-  - -r
+  - -r  
 
+11. Quizantworten bei der Sektion mv (Move) 
+  - mv cat dog  
+
+12. Quizantworten bei der Sektion mkdir (Make Directory) 
+  - mkdir  
+
+13. Quizantworten bei der Sektion rm (Remove) 
+  - rm myfile  
+
+14. Quizantworten bei der Sektion find
+  - -name  
+
+15. Quizantworten bei der Sektion help
+  - help  
+
+16. Quizantworten bei der Sektion man
+  - man  
+
+17. Quizantworten bei der Sektion whatis
+  - whatis  
+
+18. Quizantworten bei der Sektion alias
+  - alias
+
+19. Quizantworten bei der Sektion exit
+  - exit  
