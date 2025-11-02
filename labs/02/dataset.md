@@ -2,6 +2,7 @@
 
 ## Auswählen eines Datensets und Beschreibung dieses Datensets:
 **Titel:** World Population Dataset  
+
 **Quelle:** Von der Open Source Quelle Kaggle ([Link zum Datenset](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)). Autor des Datensatz ist Sourav Banerjee. Zuletzt geupdated wurde das Datenset vor 3 Jahren.  
 **Dateiformat:** Liegt als CSV-Datei vor und ist jederzeit kostenlos herunterladbar.   
 **Größe und Aufbau:** Das Datenset besteht aus diversen Spalten (insgesamt 17 Spalten und ca. 235 Zeilen), die Informationen über die Bevölkerungszahlen, Bevölkerungsdichte, Fläche und andere demografische Merkmale von Ländern und Gebieten beschreiben, wie zum Beispiel die Spalte 2020 Population die die Bevölkerung eines bestimmten Landes im Jahre 2020 aufzeigt oder die Spalte Area die die Fläche des Landes in Quadratkilometern wiedergibt. Die CSV-Datei hat eine Größe von 29.25 kB.  
