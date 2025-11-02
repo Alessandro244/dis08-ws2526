@@ -1,4 +1,4 @@
-# Markdown Cheatsheet
+# Markdown Cheatsheet (lab 01)
 
 Ein kompakter Überblick über die wichtigsten Markdown-Funktionen, inkl. GitHub-spezifischer Features.
 
