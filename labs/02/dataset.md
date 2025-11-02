@@ -24,8 +24,8 @@ Zur Erweitern habe ich mich für ein weiteres Datenset entschieden ([Link zum an
 **Resuable (Wiederverwendbar):** Beide Datensets liefern genaue Informationen über Inhalt, Quelle, Erstellungsdatum und Dateiformat (R1). Nur eines der Datensets hat eine eindeutige Datenverarbeitungslizenz (R1.1 gilt also nur für eines der beiden Datensets). Herkunft und Entsteheung der Daten ist bei beiden Datensets angegeben (R1.2).  
 
 | Findable (Auffindbar)       | Accessible (Zugänglich)       | Interoperable (Verarbeitbar)       | Resuable (Wiederverwendbar):       |
-|----------------|----------------|----------------|----------------|
-| Eintrag 1,1    | Eintrag 1,2    | Eintrag 1,3    | Eintrag 1,4    |
-| Eintrag 2,1    | Eintrag 2,2    | Eintrag 2,3    | Eintrag 2,4    |
-| Eintrag 3,1    | Eintrag 3,2    | Eintrag 3,3    | Eintrag 3,4    |
+|:-----------------------:|:-----------------------------:|:-----------------------------------:|:-------------------------------------:|
+| F2                      | A1                            | I1                                  | R1                                    |
+|                         | A1.1                          |                                     | R1.1                                  |
+|                         | A1.2                          |                                     | R1.2                                  |
 
