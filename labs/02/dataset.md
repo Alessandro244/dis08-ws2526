@@ -19,10 +19,14 @@ Zur Erweitern habe ich mich für ein weiteres Datenset entschieden ([Link zum an
 
 ## Bewertung der Datensets nach den FAIR Prinzipien  
 **Findable (Auffindbar):** Beide Datensets liefern genaue Informationen über Inhalt, Quelle, Erstellungsdatum und Dateiformat (F2).  
+
 **Accessible (Zugänglich):** Beide Datensets können über Python Code abgerufen werden (A1). Beide Datensets sind jederzeit aufrufbar und downloadbar (A1.1). Beide Datensets benötigen die Erstellung eines kostenlosen Kaggle Accounts für den Download und unterstützten somit Protokoll Authentifizierung (A1.2).  
+
 **Interoperable (Verarbeitbar):** Beide Datensets liegen im CSV-Format vor und sind damit gut verarbeitbar (I1).  
+
 **Resuable (Wiederverwendbar):** Beide Datensets liefern genaue Informationen über Inhalt, Quelle, Erstellungsdatum und Dateiformat (R1). Nur eines der Datensets hat eine eindeutige Datenverarbeitungslizenz (R1.1 gilt also nur für eines der beiden Datensets). Herkunft und Entsteheung der Daten ist bei beiden Datensets angegeben (R1.2).  
 
+### In Tabellenform (Überblick der erfüllten FAIR Prinzipien der beiden Datensets):
 | Findable (Auffindbar)       | Accessible (Zugänglich)       | Interoperable (Verarbeitbar)       | Resuable (Wiederverwendbar):       |
 |:-----------------------:|:-----------------------------:|:-----------------------------------:|:-------------------------------------:|
 | F2                      | A1                            | I1                                  | R1                                    |
