@@ -15,12 +15,14 @@ Size (rows, columns, or file size)
 Basic statistics (e.g., ranges, averages, min/max for numeric columns)
 Geographic or temporal coverage (e.g., “Covers traffic data in New York, 2015–2023”)
 License (Is it open? What are the conditions for reuse?)
+
 3. Augment the Dataset
 Identify at least one other open dataset on the web or web data (e.g., a Wikipedia page) that could be combined with your chosen dataset and briefly explain:
 
 How the two datasets could be linked or compared.
 What kinds of research questions could be answered by combining them.
 What kinds of next steps would be necessary to merge the datasets?
+
 4. Review the Dataset Using FAIR Principles
 Assess how well the dataset follows the FAIR principles (Findable, Accessible, Interoperable, Reusable). You can find more details about the criteria in the lecture slides. Please answer the following questions:
 
