@@ -1,6 +1,6 @@
 # Quizantworten (lab 03)
 
-1. Quizantworten bei der Sektion The Shell
+1. Quizantworten bei der Sektion The Shell  
 What is the exact output to the display when you type `echo Hello World`? Please answer in English, paying close attention to capitalization and spacing.
 ```bash
 echo Hello World
