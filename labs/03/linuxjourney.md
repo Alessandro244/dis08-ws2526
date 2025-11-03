@@ -6,55 +6,91 @@ echo Hello World
 ```
 
 2. Quizantworten bei der Sektion pwd (Print Working Directory)
-  - pwd  
+```bash
+pwd
+```
 
 3. Quizantworten bei der Sektion cd (Change Directory)
-  - cd ..  
+```bash
+cd ..
+```
 
 4. Quizantworten bei der Sektion ls (List Directories)
-  - ls -a  
+```bash
+ls -a
+```
 
 5. Quizantworten bei der Sektion touch
-  - touch myfile
+```bash
+touch myfile
+```
 
 6. Quizantworten bei der Sektion file
-  - file
+```bash
+file
+```
 
 7. Quizantworten bei der Sektion cat
-  - cat
+```bash
+cat
+```
 
 8. Quizantworten bei der Sektion less
-  - q
+```bash
+q
+```
 
 9. Quizantworten bei der Sektion history
-  - clear
+```bash
+clear
+```
 
 10. Quizantworten bei der Sektion cp (Copy) 
-  - -r  
+```bash
+-r
+```
 
-11. Quizantworten bei der Sektion mv (Move) 
-  - mv cat dog  
+11. Quizantworten bei der Sektion mv (Move)
+```bash
+mv cat dog
+```
 
 12. Quizantworten bei der Sektion mkdir (Make Directory) 
-  - mkdir  
+```bash
+mkdir
+```
 
 13. Quizantworten bei der Sektion rm (Remove) 
-  - rm myfile  
+```bash
+rm myfile
+```
 
 14. Quizantworten bei der Sektion find
-  - -name  
+```bash
+- name
+```
 
 15. Quizantworten bei der Sektion help
-  - help  
+```bash
+help
+``` 
 
 16. Quizantworten bei der Sektion man
-  - man  
+```bash
+man
+``` 
 
 17. Quizantworten bei der Sektion whatis
-  - whatis  
+```bash
+whatis
+```  
 
 18. Quizantworten bei der Sektion alias
-  - alias
+```bash
+alias
+```
 
 19. Quizantworten bei der Sektion exit
-  - exit  
+```bash
+exit
+```
