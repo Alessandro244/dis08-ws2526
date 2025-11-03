@@ -1,7 +1,9 @@
 # Quizantworten (lab 03)
 
 1. Quizantworten bei der Sektion The Shell  
-  - Hello World
+```bash
+echo Hello World
+```
 
 2. Quizantworten bei der Sektion pwd (Print Working Directory)
   - pwd  
