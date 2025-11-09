@@ -1,0 +1,1 @@
+Jonas Weber wuchs in einem kleinen Bergdorf auf und verbrachte seine Kindheit damit, die umliegenden Wälder zu erkunden. Schon früh entwickelte er ein Talent für Musik und begann mit zehn Jahren, eigene Melodien auf der Gitarre zu komponieren. Nach seinem Abschluss in Ingenieurwissenschaften reiste er um die Welt, um verschiedene Kulturen und Musiktraditionen kennenzulernen.
